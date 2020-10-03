@@ -3,7 +3,11 @@ package githubtest;
 public class Appgithub {
 
 	public static void main(String[] args) {
-	System.out.println("Samir is here, oh my dear !") ;
+	int i=10, j ;
+	for(j=0; j<=i; j++)
+	{
+		System.out.println(j);
+	}
 
 	}
 
